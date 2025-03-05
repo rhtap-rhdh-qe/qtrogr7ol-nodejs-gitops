@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: qtrogr7ol-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/qtrogr7ol-nodejs-gitops
